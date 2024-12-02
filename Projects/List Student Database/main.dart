@@ -165,8 +165,6 @@ void main() {
                   print("Roll No. : ${database[index]["Roll No."]}");
                   print("Class : ${database[index]["Class"]}");
                   print("Grades : ${database[index]["Grades"]}");
-                  print(
-                      "------------------------------------ End ------------------------------------");
                 } else if (numberEntered == "2") {
                   // Update Data Using Index
                   // To Restart Until the User Enter Correct Option Number
