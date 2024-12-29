@@ -14,5 +14,5 @@ void main() {
   }
 
   // Print Factorial
-  print(factorial);
+  print("Factorial of a Given Number: $factorial");
 }

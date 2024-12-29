@@ -10,5 +10,5 @@ void main() {
     greatestNumber > numbers[i] ? greatestNumber : greatestNumber = numbers[i];
   }
 
-  print(greatestNumber);
+  print("Greatest Number in the list is : $greatestNumber");
 }

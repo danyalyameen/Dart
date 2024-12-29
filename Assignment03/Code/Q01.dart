@@ -16,6 +16,6 @@ void main() {
     }
   }
 
-  print(evenNumbers);
-  print(oddNumbers);
+  print("Even Numbers in the list are: $evenNumbers");
+  print("Odd Numbers in the list are: $oddNumbers");
 }

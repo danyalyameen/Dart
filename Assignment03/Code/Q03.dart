@@ -15,5 +15,5 @@ void main() {
   }
 
   // Print sum
-  print(sum);
+  print("Sum of Digits : $sum");
 }
